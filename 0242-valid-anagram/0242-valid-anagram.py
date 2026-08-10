@@ -2,9 +2,8 @@ class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         
         if len(s)==len(t):
-            for i in range(len(s)):
-                if s.count(s[i]) != t.count(s[i]):
+            for i in set(s):
+                if s.count(i) != t.count(i):
                     return False
-                
             return True
         return False
