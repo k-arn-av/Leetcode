@@ -3,7 +3,7 @@ class Solution:
         
         if len(s)==len(t):
             for i in range(len(s)):
-                if s[i] not in t or s.count(s[i]) != t.count(s[i]):
+                if s.count(s[i]) != t.count(s[i]):
                     return False
                 
             return True
