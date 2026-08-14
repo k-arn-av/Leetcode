@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/k-arn-av/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/k-arn-av/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/k-arn-av/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/k-arn-av/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/k-arn-av/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/k-arn-av/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/k-arn-av/Leetcode/tree/master/0344-reverse-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/k-arn-av/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/k-arn-av/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/k-arn-av/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
