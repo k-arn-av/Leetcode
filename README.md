@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/k-arn-av/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/k-arn-av/Leetcode/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/k-arn-av/Leetcode/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/k-arn-av/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/k-arn-av/Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/k-arn-av/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/k-arn-av/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/k-arn-av/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/k-arn-av/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
