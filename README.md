@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/k-arn-av/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/k-arn-av/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/k-arn-av/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/k-arn-av/Leetcode/tree/master/3522-calculate-score-after-performing-instructions) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/k-arn-av/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0904-fruit-into-baskets](https://github.com/k-arn-av/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/k-arn-av/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/k-arn-av/Leetcode/tree/master/3522-calculate-score-after-performing-instructions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/k-arn-av/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/k-arn-av/Leetcode/tree/master/0344-reverse-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/k-arn-av/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/k-arn-av/Leetcode/tree/master/3522-calculate-score-after-performing-instructions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/k-arn-av/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Simulation
+|  |
+| ------- |
+| [3522-calculate-score-after-performing-instructions](https://github.com/k-arn-av/Leetcode/tree/master/3522-calculate-score-after-performing-instructions) |
 <!---LeetCode Topics End-->
